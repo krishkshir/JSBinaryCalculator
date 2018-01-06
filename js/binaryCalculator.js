@@ -1,4 +1,4 @@
-'use strict';  
+'use strict';
 var myexp = ''; // holds the expression to be evaluated
 function updateDisp() {
     document.getElementById('res').innerHTML = myexp;
